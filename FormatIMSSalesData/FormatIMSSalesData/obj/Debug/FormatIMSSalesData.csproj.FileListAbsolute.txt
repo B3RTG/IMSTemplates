@@ -1,0 +1,16 @@
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.exe
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.pdb
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\ResolveAssemblyReference.cache
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.exe
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.pdb
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.csproj.ResolveComReference.cache
+d:\palejandre\Documents\Visual Studio 2008\Projects\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.exe.config
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.exe.config
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.csproj.ResolveComReference.cache
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.exe
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.pdb
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.exe
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\FormatIMSSalesData.pdb
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\IMSClasses.dll
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\bin\Debug\IMSClasses.pdb
+C:\Dev\IMS\FormatIMSSalesData\FormatIMSSalesData\obj\Debug\FormatIMSSalesData.csprojResolveAssemblyReference.cache

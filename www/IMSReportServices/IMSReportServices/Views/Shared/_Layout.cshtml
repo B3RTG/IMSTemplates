@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/r/bs/dt-1.10.9/datatables.min.css" />
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+    <div class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!--@Html.ActionLink("IMS Report Services", "Index", "Home", null, new { @class = "navbar-brand navbar-right" })-->
+                <a class="navbar-brand" href="#"> <img alt="IMS Brand" src="@ViewBag.ImageResourcePath/IMSHlogo2015_RGB_160px_TM.png" size="20"/></a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav /*nav-tabs*/ navbar-nav">
+                    <!--<li class="active">@Html.ActionLink("Schedule Execution", "Index", "Home", new { area = "" }, null)</li>
+                    <li>@Html.ActionLink("Execution List/Queue", "TaskList", "Home", new { area = "" }, null)</li>-->
+                    <!--<li>@Html.ActionLink("API", "Index", "Help", new { area = "" }, null)</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        <ul class="nav nav-tabs">
+            
+            <li class="@ViewBag.IndexActive">@Html.ActionLink("Schedule Execution", "Index", "Home", new { area = "" }, null)</li>
+            <li class="@ViewBag.TaskListActive">@Html.ActionLink("Execution List/Queue", "TaskList", "Home", new { area = "" }, null)</li>
+            <li></li>
+        </ul>
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - IMS Report Services </p>
+        </footer>
+    </div>
+
+    
+    @RenderSection("scripts", required: false)
+
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAE - Grandes Actores - FarmaParafarma", "CAE - Grandes Actores - FarmaParafarma\CAE - Grandes Actores - FarmaParafarma.csproj", "{964D781A-AA30-4913-8805-BDB48C786697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAE - Granders Actores - Referencias", "CAE - Granders Actores - Referencias\CAE - Granders Actores - Referencias.csproj", "{42AAE456-3F7D-44E3-B0B8-93B7DA7F84A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAE - Grandes Actores - Grandes Cadenas", "CAE - Grandes Actores - Grandes Cadenas\CAE - Grandes Actores - Grandes Cadenas.csproj", "{54EE485F-20A5-440B-902C-1863891B5BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAE - Grandes Actores Parafarmacias", "CAE - Grandes Actores Parafarmacias\CAE - Grandes Actores Parafarmacias.csproj", "{2961284B-EB44-4D79-BEC5-E6CA1BF2F500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAE - Grandes Actores - Farmacias", "CAE - Grandes Actores - Farmacias\CAE - Grandes Actores - Farmacias.csproj", "{0E7C5089-CD16-40A2-AE44-A8E4B065AB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964D781A-AA30-4913-8805-BDB48C786697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964D781A-AA30-4913-8805-BDB48C786697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964D781A-AA30-4913-8805-BDB48C786697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964D781A-AA30-4913-8805-BDB48C786697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42AAE456-3F7D-44E3-B0B8-93B7DA7F84A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42AAE456-3F7D-44E3-B0B8-93B7DA7F84A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42AAE456-3F7D-44E3-B0B8-93B7DA7F84A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42AAE456-3F7D-44E3-B0B8-93B7DA7F84A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EE485F-20A5-440B-902C-1863891B5BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EE485F-20A5-440B-902C-1863891B5BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EE485F-20A5-440B-902C-1863891B5BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EE485F-20A5-440B-902C-1863891B5BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2961284B-EB44-4D79-BEC5-E6CA1BF2F500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2961284B-EB44-4D79-BEC5-E6CA1BF2F500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2961284B-EB44-4D79-BEC5-E6CA1BF2F500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2961284B-EB44-4D79-BEC5-E6CA1BF2F500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7C5089-CD16-40A2-AE44-A8E4B065AB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7C5089-CD16-40A2-AE44-A8E4B065AB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7C5089-CD16-40A2-AE44-A8E4B065AB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7C5089-CD16-40A2-AE44-A8E4B065AB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

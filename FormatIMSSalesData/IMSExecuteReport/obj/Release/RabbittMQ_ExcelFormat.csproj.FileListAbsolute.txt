@@ -1,0 +1,9 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\bin\Release\RabbittMQ_ExcelFormat.exe.config
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\bin\Release\RabbittMQ_ExcelFormat.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\bin\Release\RabbittMQ_ExcelFormat.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\obj\Release\RabbittMQ_ExcelFormat.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\obj\Release\RabbittMQ_ExcelFormat.csproj.ResolveComReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\obj\Release\RabbittMQ_ExcelFormat.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSExecuteReport\obj\Release\RabbittMQ_ExcelFormat.pdb

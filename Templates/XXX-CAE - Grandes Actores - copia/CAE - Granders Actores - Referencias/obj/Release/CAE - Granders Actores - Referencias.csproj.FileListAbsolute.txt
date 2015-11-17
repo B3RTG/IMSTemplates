@@ -1,0 +1,15 @@
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.vsto
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\CAE - Granders Actores - Referencias.xltx
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\obj\Release\CAE - Granders Actores - Referencias.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\obj\Release\CAE___Granders_Actores___Referencias.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\obj\Release\CAE - Granders Actores - Referencias.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\obj\Release\CAE - Granders Actores - Referencias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Granders Actores - Referencias\obj\Release\CAE - Granders Actores - Referencias.pdb

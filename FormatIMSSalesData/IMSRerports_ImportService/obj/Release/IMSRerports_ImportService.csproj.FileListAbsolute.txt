@@ -1,0 +1,8 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe.config
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\obj\Release\IMSRerports_ImportService.ImportService.resources
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\obj\Release\IMSRerports_ImportService.ProjectInstaller.resources
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\obj\Release\IMSRerports_ImportService.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\obj\Release\IMSRerports_ImportService.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\obj\Release\IMSRerports_ImportService.pdb

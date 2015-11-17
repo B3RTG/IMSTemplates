@@ -1,0 +1,15 @@
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.vsto
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\CAE - Grandes Actores Parafarmacias.xltx
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\obj\Release\CAE - Grandes Actores Parafarmacias.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\obj\Release\CAE___Grandes_Actores_Parafarmacias.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\obj\Release\CAE - Grandes Actores Parafarmacias.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\obj\Release\CAE - Grandes Actores Parafarmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores Parafarmacias\obj\Release\CAE - Grandes Actores Parafarmacias.pdb

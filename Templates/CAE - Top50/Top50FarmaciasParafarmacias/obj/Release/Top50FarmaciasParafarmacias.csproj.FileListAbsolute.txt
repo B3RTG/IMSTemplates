@@ -1,0 +1,28 @@
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll.config
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.pdb
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll.manifest
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.vsto
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.xltx
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.dll
+C:\Dev\IMS\bin\Templates\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.pdb
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.pdb
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.vsto
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Top50FarmaciasParafarmacias.xltx
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Top50\Top50FarmaciasParafarmacias\obj\Release\Top50FarmaciasParafarmacias.pdb

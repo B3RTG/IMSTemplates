@@ -1,0 +1,15 @@
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\obj\Release\CAE - Grandes Actores - Farmacias.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\obj\Release\CAE___Grandes_Actores___Farmacias.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\obj\Release\CAE - Grandes Actores - Farmacias.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.vsto
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\CAE - Grandes Actores - Farmacias.xltx
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\obj\Release\CAE - Grandes Actores - Farmacias.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Farmacias\obj\Release\CAE - Grandes Actores - Farmacias.pdb

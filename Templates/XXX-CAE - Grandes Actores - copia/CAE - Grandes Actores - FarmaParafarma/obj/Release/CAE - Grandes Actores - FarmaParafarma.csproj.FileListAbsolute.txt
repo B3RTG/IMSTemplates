@@ -1,0 +1,14 @@
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.vsto
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\CAE - Grandes Actores - FarmaParafarma.xltx
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\obj\Release\CAE___Grandes_Actores___FarmaParafarma.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\obj\Release\CAE - Grandes Actores - FarmaParafarma.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\obj\Release\CAE - Grandes Actores - FarmaParafarma.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - FarmaParafarma\obj\Release\CAE - Grandes Actores - FarmaParafarma.pdb

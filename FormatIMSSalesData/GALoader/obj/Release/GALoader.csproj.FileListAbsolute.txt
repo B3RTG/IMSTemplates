@@ -1,0 +1,9 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\GALoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\GALoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\bin\Release\InterfaceDataLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\obj\Release\GALoader.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\obj\Release\GALoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\GALoader\obj\Release\GALoader.pdb

@@ -1,0 +1,4 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\InterfaceDataLoader\bin\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\InterfaceDataLoader\bin\Release\InterfaceDataLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\InterfaceDataLoader\obj\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\InterfaceDataLoader\obj\Release\InterfaceDataLoader.pdb

@@ -1,0 +1,42 @@
+﻿Instalando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Instalando el servicio ImportServices...
+El servicio ImportServices se ha instalado correctamente.
+Creando el origen de EventLog ImportServices en el registro Application...
+Confirmando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Desinstalando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Quitando el origen de EventLog ImportServices.
+Se está quitando el servicio ImportServices del sistema...
+El servicio ImportServices se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Instalando el servicio ImportServices...
+El servicio ImportServices se ha instalado correctamente.
+Creando el origen de EventLog ImportServices en el registro Application...
+Confirmando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Desinstalando ensamblado 'C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.InstallLog
+   assemblypath = C:\Dev\IMS\bin\FormatIMSSalesData\IMSRerports_ImportService\bin\Release\IMSRerports_ImportService.exe
+Quitando el origen de EventLog ImportServices.
+Se está quitando el servicio ImportServices del sistema...
+El servicio ImportServices se ha quitado correctamente del sistema.

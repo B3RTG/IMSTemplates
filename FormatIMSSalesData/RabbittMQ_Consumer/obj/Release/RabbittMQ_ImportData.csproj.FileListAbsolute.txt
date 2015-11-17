@@ -1,0 +1,10 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\RabbittMQ_ImportData.exe.config
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\RabbittMQ_ImportData.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\RabbittMQ_ImportData.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\bin\Release\InterfaceDataLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\obj\Release\RabbittMQ_ImportData.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\obj\Release\RabbittMQ_ImportData.exe
+C:\Dev\IMS\bin\FormatIMSSalesData\RabbittMQ_Consumer\obj\Release\RabbittMQ_ImportData.pdb

@@ -1,0 +1,5 @@
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\bin\Debug\IMSClasses.dll
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\bin\Debug\IMSClasses.pdb
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Debug\IMSClasses.dll
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Debug\IMSClasses.pdb
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Debug\IMSClasses.csprojResolveAssemblyReference.cache

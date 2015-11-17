@@ -1,0 +1,15 @@
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.dll.config
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.dll.manifest
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.vsto
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\CAE - Grandes Actores - Grandes Cadenas.xltx
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\obj\Release\CAE - Grandes Actores - Grandes Cadenas.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\obj\Release\CAE___Grandes_Actores___Grandes_Cadenas.Properties.Resources.resources
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\obj\Release\CAE - Grandes Actores - Grandes Cadenas.csproj.GenerateResource.Cache
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\obj\Release\CAE - Grandes Actores - Grandes Cadenas.dll
+C:\Dev\IMS\bin\Templates\CAE - Grandes Actores\CAE - Grandes Actores - Grandes Cadenas\obj\Release\CAE - Grandes Actores - Grandes Cadenas.pdb

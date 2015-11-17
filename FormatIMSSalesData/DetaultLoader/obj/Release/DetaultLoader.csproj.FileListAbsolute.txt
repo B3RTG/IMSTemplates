@@ -1,0 +1,9 @@
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\DefaultLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\DefaultLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\bin\Release\InterfaceDataLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\obj\Release\DetaultLoader.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\obj\Release\DefaultLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\DetaultLoader\obj\Release\DefaultLoader.pdb

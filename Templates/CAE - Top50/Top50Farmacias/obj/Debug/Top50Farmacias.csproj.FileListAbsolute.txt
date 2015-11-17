@@ -1,0 +1,13 @@
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.dll.config
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.dll
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.pdb
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.dll.manifest
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.vsto
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Top50Farmacias.xltx
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\obj\Debug\Top50Farmacias.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\obj\Debug\Top50Farmacias.Properties.Resources.resources
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\obj\Debug\Top50Farmacias.csproj.GenerateResource.Cache
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\obj\Debug\Top50Farmacias.dll
+C:\Dev\IMS\FormatIMSSalesData\Templates\Top50Farmacias\Top50Farmacias\obj\Debug\Top50Farmacias.pdb

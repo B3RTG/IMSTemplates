@@ -1,0 +1,13 @@
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\bin\Release\IMSClasses.dll
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.dll
+C:\Dev\IMS\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\bin\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\bin\Release\IMSClasses.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\bin\Release\InterfaceDataLoader.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\bin\Release\InterfaceDataLoader.pdb
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.csprojResolveAssemblyReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.csproj.ResolveComReference.cache
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.dll
+C:\Dev\IMS\bin\FormatIMSSalesData\IMSClasses\obj\Release\IMSClasses.pdb
